@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="2560" height="1440" alt="Pink Modern Blogger github Channel Art (1)" src="https://github.com/user-attachments/assets/9e89a710-96f5-4af0-ba33-52adc3f660e1" />
+ <img width="1280" height="720" alt="bannergithubbejvi" src="https://github.com/user-attachments/assets/c29eafc6-846d-41d0-8d20-cdb5220ce14a" />
+
 </div>
 
 ---
