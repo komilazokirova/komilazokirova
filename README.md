@@ -1,6 +1,5 @@
 <div align="center">
- <img width="1280" height="720" alt="bannergithubbejvi" src="https://github.com/user-attachments/assets/c29eafc6-846d-41d0-8d20-cdb5220ce14a" />
-
+<img width="1200" height="300" alt="githubBAnner" src="https://github.com/user-attachments/assets/3994c262-1c75-417c-8bdc-5323cba331a2" />
 </div>
 
 ---
