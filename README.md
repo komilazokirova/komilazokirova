@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**komilazokirova/komilazokirova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Komila! 👋
 
-Here are some ideas to get you started:
+### About Me:
+- ✨ I'm currently honing my skills in **Frontend Web Development**.
+- 🚀 My goal is to build high-quality and user-friendly web interfaces.
+- 🌱 I'm currently diving deeper into **JavaScript** and the **React** ecosystem.
+      I'm open to collaborating on **Open-Source** projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+### Let's Connect:
+- 📧 Email: [zokirovakomila500@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/feed/]
+- 📱 Telegram: [t.me/Komila2608]
+
+---
+⭐️ *Thank you for visiting my GitHub profile!*
