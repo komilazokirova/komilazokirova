@@ -1,4 +1,4 @@
-# Hi there, I'm Komila! 👋
+https://www.canva.com/design/DAHFHmxcxpw/a8dhzTpcxM5BmgpzOIBO0w/edit?utm_content=DAHFHmxcxpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### About Me:
 - ✨ I'm currently honing my skills in **Frontend Web Development**.
