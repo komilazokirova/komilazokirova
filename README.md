@@ -1,5 +1,4 @@
-https://www.canva.com/design/DAHFHmxcxpw/a8dhzTpcxM5BmgpzOIBO0w/edit?utm_content=DAHFHmxcxpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+# Hi there, I'm Komila! 👋
 ### About Me:
 - ✨ I'm currently honing my skills in **Frontend Web Development**.
 - 🚀 My goal is to build high-quality and user-friendly web interfaces.
