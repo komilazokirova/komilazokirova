@@ -1,3 +1,8 @@
+<div align="center">
+  <img width="2560" height="1440" alt="Pink Modern Blogger github Channel Art (1)" src="https://github.com/user-attachments/assets/9e89a710-96f5-4af0-ba33-52adc3f660e1" />
+</div>
+
+---
 # Hi there, I'm Komila! 👋
 ### About Me:
 - ✨ I'm currently honing my skills in **Frontend Web Development**.
