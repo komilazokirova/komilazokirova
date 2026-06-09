@@ -19,9 +19,11 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### Let's Connect:
+- 💻 My Portfolio :   https://komilazokirova.github.io/
 - 📧 Email: [zokirovakomila500@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/feed/]
 - 📱 Telegram: [t.me/Komila2608]
+
 
 ---
 ⭐️ *Thank you for visiting my GitHub profile!*
